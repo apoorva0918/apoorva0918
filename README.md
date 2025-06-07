@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects (MERN)**
 
-- 🌱 I’m currently learning **MERN Stack, DSA**
+- 🌱 I’m currently learning **MERN Stack, DSA and AWS**
 
 - 📫 How to reach me **apoorvaaa81@gmail.com**
 
