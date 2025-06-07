@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apoorva0918" alt="apoorva0918" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Projects (MERN)**
+- 🔭 I’m currently working on **Full Stack Projects (MERN) and brushing up my DSA skills.**
 
-- 🌱 I’m currently learning **MERN Stack, DSA**
+- 🌱 I’m currently learning **MERN Stack, DSA and AWS**
 
 - 📫 How to reach me **apoorvaaa81@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/apoorva raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apoorva raj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/apoorva-raj-a5a947251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apoorva raj" height="30" width="40" /></a>
 <a href="https://instagram.com/apoorvaa.raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apoorvaa.raj" height="30" width="40" /></a>
 </p>
 
