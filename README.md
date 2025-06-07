@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Apoorva Raj</h1>
 <h3 align="center">A budding and aspirational frontend developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsanjanahumanintech.medium.com%2Fmastering-asynchronous-javascript-4afa7e504d26&psig=AOvVaw3_Irn82CRhSM6xt0MuoN2v&ust=1749410550170000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiiq6WE4I0DFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/380aa60b-9c69-42cd-a31d-403316d8c870)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorva0918&label=Profile%20views&color=0e75b6&style=flat" alt="apoorva0918" /> </p>
 
