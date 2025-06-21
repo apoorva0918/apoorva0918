@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apoorva Raj</h1>
-<h3 align="center">A budding and aspirational frontend developer from India.</h3>
+<h3 align="center">A budding and aspirational fullstack developer from India.</h3>
 <img align="right" alt="coding" width="200" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*uYkZXXw-QL-N_1gVndPH9A.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorva0918&label=Profile%20views&color=0e75b6&style=flat" alt="apoorva0918" /> </p>
